@@ -15,4 +15,3 @@ jobs:
     - uses: actions/checkout@v2
     - name: make
       run: make -C 3_Implementation/ all
-© 2021 GitHub, Inc.
