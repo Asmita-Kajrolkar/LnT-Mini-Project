@@ -31,7 +31,7 @@ long int bmi(long int weight, long int height);
 
 long int bmr(long int weight, long int height, int age);
 
-long int calorie_requirement(float bmr);
+long int calorie_requirement(long int bmr1, int selection);
 
 
 /**
