@@ -55,7 +55,7 @@ void fitness_calculator_menu(void)
         switch(fitness_calculator_operation)
         {
             case BMI:
-                printf("\nYou have selected to calculate BMI. Enter your weight in kg);
+                printf("\nYou have selected to calculate BMI. Enter your weight in kg");
                 scanf("%ld",&weight);
                 printf("\nEnter your height in cm");
                 scanf("%ld",&height);
