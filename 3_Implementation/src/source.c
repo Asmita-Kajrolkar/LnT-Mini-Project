@@ -7,7 +7,7 @@ long int bmi(long int W, long int H){
     return result;
 }
 
-long int bmr(long int W,long int H, int A;){
+long int bmr(long int W,long int H, int A){
     result = 655 + (9.6 * W) + (1.8 * H) - (4.7 * A);
     return result;
 }
