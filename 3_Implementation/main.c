@@ -10,6 +10,7 @@ unsigned int fitness_calculator_operation = 0;
 /* Operands on which calculation is performed */
 long int weight=0;
 long int height = 0;
+long int bmr1=0;
 int age=0;
 int selection;
 // float bmr,bmi,calorie_requirement;
@@ -70,7 +71,7 @@ void fitness_calculator_menu(void)
                 printf("\nEnter your height in cm");
                 scanf("%ld",&height);
                 printf("\nEnter your age in years");
-                scanf("%f",&age);
+                scanf("%d",&age);
                 printf("\nPress Enter to continue");
                 result=bmr(weight,height,age);
                 printf("\nBMR is %ld\n",result);
@@ -87,10 +88,10 @@ void fitness_calculator_menu(void)
                 printf("Please enter the number to the left of your activity\n");
                 scanf("%d",&selection);
                 printf("\nYou have selected to calculate Calorie Requirement. Enter your BMR");
-                scanf("%ld",&bmr);
+                scanf("%ld",&bmr1);
                 
                 
-                result=calorie_requirement(bmr,selection);
+                result=calorie_requirement(bmr1,selection);
                 printf("\nCalorie Requirement is %ld\n",result);
                 //fpurge(stdin);
                 getchar();
