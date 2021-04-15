@@ -55,7 +55,7 @@ void test_calorie_requirement(void) {
   TEST_ASSERT_EQUAL(0, calorie_requirement(1560,2));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(3100, calorie_requirement(2000,3));
+  TEST_ASSERT_EQUAL(0, calorie_requirement(2000,3));
 }
 
 
