@@ -41,4 +41,36 @@ Using the three important factors-height, age and weight, you can calculate BMR 
 | Heavy Exercise        | BMR*1.725       |
 | very Heavy Exercise          | BMR*1.9       |
 
+# SWOT ANALYSIS
+# 4W's and 1'H
+## Who
+Intended for people who want to calculate BMI and BMR and determine their calorie intake according to their BMR.
+## What
+It provides you with quick calculation of Body Mass Index, Basal Metabolic Rate and Calorie Intake.
+## When
+When calculations listed here are frequently needed to be carried out
+## Where
+Users can use this application on there desktop or laptop terminal
+## How
+Users can simply double tap the program application file to run this application
+# Detail Requirements
+## High Level Requirements
+| ID          | Description         | Status(Completed/Future) |
+| -------------            | ------------- |-------------|
+|1             | BMI Calculator         |Future|
+| 2           | BMR Calculator     |Future|
+| 3            | Calorie Requirement       |Future|
+
+## Low Level Requirements
+| ID          | Description         | Status(Completed/Future) |
+| -------------            | ------------- |-------------|
+|1             |Menu of supported operations         |Future|
+| 2           | Function for Fitness Calculation    |Future|
+| 3            |Function for BMI       |Future|
+| 4            |Function for BMR       |Future|
+| 5            |Function for Calorie Intake       |Future|
+| 6            |Test Cases for BMI       |Future|
+| 7            |Test Cases for BMR       |Future|
+| 8            |Test Cases for Calorie Intake       |Future|
+| 9            |Implementation Testing       |Future|
 
