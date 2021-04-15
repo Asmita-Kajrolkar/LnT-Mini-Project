@@ -42,6 +42,10 @@ Using the three important factors-height, age and weight, you can calculate BMR 
 | very Heavy Exercise          | BMR*1.9       |
 
 # SWOT ANALYSIS
+![swot analysiss](https://user-images.githubusercontent.com/80444408/114815691-5df69200-9dd4-11eb-831d-81b129c509cb.png)
+
+
+
 # 4W's and 1'H
 ## Who
 Intended for people who want to calculate BMI and BMR and determine their calorie intake according to their BMR.
