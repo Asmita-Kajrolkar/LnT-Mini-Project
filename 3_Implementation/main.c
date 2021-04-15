@@ -12,7 +12,7 @@ long int weight=0;
 long int height = 0;
 int age=0;
 int selection;
-float bmr,bmi,calorie_requirement;
+// float bmr,bmi,calorie_requirement;
 /* Valid operations */
 enum operations{ BMI=1, BMR, Calorie_Requirement, EXIT };
 
