@@ -3,7 +3,7 @@
 long int result=0;
 //long int n=0; 
 long int bmi(long int W, long int H){
-    result= W/(H*H);
+    result= (W*10000)/(H*H);
     return result;
 }
 
