@@ -3,3 +3,4 @@ Fitness Calculator will help you calculate Body Mass Index(BMI), Basal Metabolic
 
 [![cppcheck-action](https://github.com/Asmita-Kajrolkar/LnT-Mini-Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/Asmita-Kajrolkar/LnT-Mini-Project/actions/workflows/cppcheck.yml)
 [![Contribution check](https://github.com/Asmita-Kajrolkar/LnT-Mini-Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/Asmita-Kajrolkar/LnT-Mini-Project/actions/workflows/gitinspector.yml)
+[![Dynamic Analysis](https://github.com/Asmita-Kajrolkar/LnT-Mini-Project/actions/workflows/dynamic_code_quality.yml/badge.svg)](https://github.com/Asmita-Kajrolkar/LnT-Mini-Project/actions/workflows/dynamic_code_quality.yml)
