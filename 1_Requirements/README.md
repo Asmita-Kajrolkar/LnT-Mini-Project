@@ -22,3 +22,23 @@ Both high BMI's and low ones are known to raise a host of health problems.
 | Obesity Class 1          | 30-34.9       |
 | Obesity Class 2          | 35-39.9       |
 | Extreme Obesity Class 3  | >40           |
+
+## What is BMR
+Basal Metabolic Rate is a measurement of the number of calories needed to perform your body's most basic functions.
+
+## BMR Calculations
+BMR(Basal Metabolic Rate) is a number calculated from a person's weight, height and age.
+Using the three important factors-height, age and weight, you can calculate BMR as follows-
+#### `Basal Metabolic Rate(for women) = 655 + (9.6 * weight(in kg)) + (1.8 * height(in cm)) - (4.7 * age(in years))`
+#### `Basal Metabolic Rate(for men) = 66 + (13.7 * weight(in kg)) + (5 * height(in cm)) - (6.8 * age(in years))`
+
+### Classification of Calorie Intake according to Basal Metabolic Rate(BMR)
+| Activity Level           | Calorie Requirement          |
+| -------------            | ------------- |
+| Little to no exercise              | BMR*1.2         |
+| Light Exercise           | BMR*1.375     |
+| Moderate Exercise               | BMR*1.55       |
+| Heavy Exercise        | BMR*1.725       |
+| very Heavy Exercise          | BMR*1.9       |
+
+
