@@ -13,7 +13,7 @@
 | -------------  | ------------- |-----------|-------------|-------------|-------|
 |I_01| Performing BMI Calculation and showing result| (40,150) | 17.8 | 17.8 | Requirement Based|
 |I_02|Performing BMR Calculation and showing result| (40,140,25) | 1173.5 | 1173.5 | Requirement Based|
-|I_03| Performing Calorie Requirement Calculation and showing result | (1560,2) | 0 | 0 | Requirements Based|
+|I_03| Performing Calorie Requirement Calculation and showing result | (1560,2) | 0 | 0 | Requirement Based|
 
 
 
