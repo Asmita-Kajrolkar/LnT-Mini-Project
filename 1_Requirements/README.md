@@ -61,20 +61,20 @@ Users can simply double tap the program application file to run this application
 ## High Level Requirements
 | ID          | Description         | Status(Completed/Future) |
 | -------------            | ------------- |-------------|
-|1             | BMI Calculator         |Future|
-| 2           | BMR Calculator     |Future|
-| 3            | Calorie Requirement       |Future|
+|1             | BMI Calculator         |Completed|
+| 2           | BMR Calculator     |Completed|
+| 3            | Calorie Requirement       |Completed|
 
 ## Low Level Requirements
 | ID          | Description         | Status(Completed/Future) |
 | -------------            | ------------- |-------------|
-|1             |Menu of supported operations         |Future|
-| 2           | Function for Fitness Calculation    |Future|
-| 3            |Function for BMI       |Future|
-| 4            |Function for BMR       |Future|
-| 5            |Function for Calorie Intake       |Future|
-| 6            |Test Cases for BMI       |Future|
-| 7            |Test Cases for BMR       |Future|
-| 8            |Test Cases for Calorie Intake       |Future|
-| 9            |Implementation Testing       |Future|
+|1             |Menu of supported operations         |Completed|
+| 2           | Function for Fitness Calculation    |Completed|
+| 3            |Function for BMI       |Completed|
+| 4            |Function for BMR       |Completed|
+| 5            |Function for Calorie Intake       |Completed|
+| 6            |Test Cases for BMI       |Completed|
+| 7            |Test Cases for BMR       |Completed|
+| 8            |Test Cases for Calorie Intake       |Completed|
+| 9            |Implementation Testing       |Completed|
 
