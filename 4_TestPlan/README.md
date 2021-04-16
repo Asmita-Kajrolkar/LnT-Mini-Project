@@ -11,6 +11,9 @@
 ## Table Name-Low Level Test Plan
 |Test ID         | Description   |Exp I/P|Exp O/P | Actual Output | Type of Test|
 | -------------  | ------------- |-----------|-------------|-------------|-------|
-| I_01             | Performing BMI Calculation and showing result        |fitness_calculator_menu()|User Menu Appears|User Menu Appears|Requirement Based|
-|I_02           | Performing BMR Calculation and showing result     |1| BMI Menu appears| BMI Menu appears|Requirement Based|
-|I_03               |  Performing Calorie Requirement Calculation and showing result      |2| BMR Menu appears| BMR Menu appears|Requirement Based|
+|I_01| Performing BMI Calculation and showing result| (40,150) | 17.8 | 17.8 | Requirement Based|
+|I_02|Performing BMR Calculation and showing result| (40,140,25) | 1173.5 | 1173.5 | Requirement Based|
+|I_03| Performing Calorie Requirement Calculation and showing result | (1560,2) | 0 | 0 | Requirements Based|
+
+
+
